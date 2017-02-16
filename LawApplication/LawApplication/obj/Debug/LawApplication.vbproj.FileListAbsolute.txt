@@ -1,0 +1,12 @@
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\bin\Debug\LawApplication.exe.config
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\bin\Debug\LawApplication.exe
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\bin\Debug\LawApplication.pdb
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\bin\Debug\LawApplication.xml
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\obj\Debug\LawApplication.vbprojResolveAssemblyReference.cache
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\obj\Debug\LawApplication.Form1.resources
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\obj\Debug\LawApplication.Resources.resources
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\obj\Debug\LawApplication.vbproj.GenerateResource.Cache
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\obj\Debug\LawApplication.exe
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\obj\Debug\LawApplication.xml
+c:\users\sir_breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\obj\Debug\LawApplication.pdb
+C:\Users\Sir_Breniak\documents\visual studio 2015\Projects\LawApplication\LawApplication\bin\Debug\Database1.accdb
